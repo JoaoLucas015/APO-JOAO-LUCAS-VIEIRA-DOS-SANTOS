@@ -17,11 +17,12 @@ Aplicação desenvolvida como parte da Atividade Prática Orientada (APO) da dis
 
 ## 💻 Como Executar
 1. Instale o XAMPP.
-2. Coloque a pasta `gerador-curriculo` em `htdocs`.
-3. Acesse: http://localhost/apo-php/
-4. Preencha o formulário e gere seu currículo.
-5. Para baixar, clique em **“Baixar Currículo (PDF)”**.
+2. Coloque a pasta `apo-php` em `htdocs`.
+4. Acesse: http://localhost/apo-php/
+5. Preencha o formulário e gere seu currículo.
+6. Para baixar, clique em **“Baixar Currículo (PDF)”**.
 
 ## 👨‍💻 Autor
 Desenvolvido por João Lucas Vieira dos Santos – RA 09054284  
 UNIPAR EAD – Fundamentos de Programação para Internet
+
